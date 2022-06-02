@@ -7,8 +7,8 @@ class Main {
     System.out.println("Print the Sum of 1000+1000");
     Sum = 1000+1000;
     System.out.println(Sum);
-    System.out.println("Print log of 90");
-    Sum 
+    System.out.println("Subtract 1000-1000");
+    Sum = 1000-1000;
     System.out.println(Sum);
   }
 }

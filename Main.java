@@ -19,5 +19,7 @@ class Main {
     System.out.println("Pick a random number between 0 and 100");
     Sum = Math.random() * 101;
     System.out.println(Sum);
+    System.out.println("-----------------------------------");
+    System.out.println("Thanks For Running this Program!");
   }
 }

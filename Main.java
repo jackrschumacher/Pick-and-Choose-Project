@@ -16,5 +16,8 @@ class Main {
     System.out.println("Take the Square Root of 25");
     Sum = Math.sqrt(100);
     System.out.println(Sum);
+    System.out.println("Pick a random number between 0 and 100");
+    Sum = Math.random() * 101;
+    System.out.println(Sum);
   }
 }
